@@ -1,0 +1,11 @@
+🔧 How to Add:
+
+Click “Add file” → “Create new file”
+
+File name: logs/.gitkeep
+
+Leave the file blank.
+
+Commit message: Add .gitkeep to track logs folder structure
+
+Click “Commit new file”
